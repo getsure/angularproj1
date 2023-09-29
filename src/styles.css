@@ -1,0 +1,13 @@
+/* .classone{
+    color:blue;
+  }
+  .classtwo{
+    background-color: lightblue;
+  } */
+
+  .myclass{
+    color:blue;
+    background-color: lightblue;
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+  }
